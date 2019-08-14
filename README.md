@@ -1,6 +1,6 @@
 # Point
 Includes coordinates points, with X, Y, and  color properties via interfaces, client files, and various other files
-
+CSC 1302 
 
 Colored.java
   Interface file that includes a String getColored() 
